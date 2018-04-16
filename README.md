@@ -1,2 +1,3 @@
 # hello-world
-Hello World Guide Repository
+
+Repository created while following the Hello World Guide.
